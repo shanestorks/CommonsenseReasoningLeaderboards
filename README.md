@@ -1,5 +1,5 @@
-# CommonsenseReasoningLeaderboards
-Aggregation of leaderboard links for "Toward Commonsense Reasoning in Natural Language Understanding" by Shane Storks, Qiaozi Gao, and Joyce Y. Chai.
+# Commonsense Reasoning Leaderboards
+Aggregation of leaderboard links for "Toward Commonsense Reasoning in Natural Language Understanding" by Shane Storks, Qiaozi Gao, and Joyce Y. Chai, a high-level survey of benchmarks and approaches for commonsense reasoning for NLU which discusses various advances, limitations, and future directions of recent work in the space.
 
 Data in the paper was collected from the leaderboards (and similar online locations for results) below (sorted by human performance then SOTA performance):
 - [bAbI](https://paperswithcode.com/sota/question-answering-on-babi)
